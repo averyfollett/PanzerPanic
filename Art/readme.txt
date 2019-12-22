@@ -1,0 +1,1 @@
+Sort all art in this folder inside placeholder or sprint # folders

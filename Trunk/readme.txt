@@ -1,0 +1,1 @@
+This folder just contains the Unity project folder for the game
